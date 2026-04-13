@@ -1,4 +1,4 @@
-# Student Placement and Salary Analytics Pipeline
+# Student Placement and Salary Analytics 
 
 ## Problem Statement
 
@@ -115,5 +115,6 @@ jupyter notebook placement_prediction.ipynb
 | Name | Roll Number | Institution |
 |---|---|---|
 | Barath Kumar S | 24BIT011 | Kumaraguru College of Technology (KCT) |
-
+| Kishor S       | 24BIT051 | Kumaraguru College of Technology (KCT) |
+| Mouneesh B     | 24BIT063 | Kumaraguru College of Technology (KCT) |
 ---
